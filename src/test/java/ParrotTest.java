@@ -6,7 +6,7 @@ public class ParrotTest {
     Lab p = new Lab();
 
     /**
-     * If p.copy is passed "hello", it should return "hello".
+     * If p.copy  is passed "hello", it should return "hello".
      */
     @Test
     public void parrotTestHello(){
