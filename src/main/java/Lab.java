@@ -6,7 +6,7 @@ public class Lab {
      *
      * for example:
      * String str = copy("hello");
-     * System.out.println(str); -> prints out "hello"
+     *  System.out.println(str); -> prints out "hello"
      *
      * You may   notice that replacing the String "return text please!" with "hello" or "polly" will work for one
      * test, but will fail the other. This is because the test cases are setting up different scenarios to test the
